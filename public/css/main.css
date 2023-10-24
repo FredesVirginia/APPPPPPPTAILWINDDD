@@ -685,6 +685,10 @@ video {
 .w-2\/3 {
 	width: 66.666667%;
 }
+
+.w-200 {
+	width: 200px
+}
 .flex-initial {
 	flex: 0 1 auto;
 }
